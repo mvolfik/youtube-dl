@@ -1004,7 +1004,7 @@ from .sevenplus import SevenPlusIE
 from .sexu import SexuIE
 from .seznamzpravy import (
     SeznamZpravyIE,
-    SeznamZpravyArticleIE,
+    SDNIE,
 )
 from .shahid import (
     ShahidIE,
